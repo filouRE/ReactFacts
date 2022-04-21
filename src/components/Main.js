@@ -4,7 +4,7 @@ const Main = () => {
   return (
     <div className="main">
       <div className="hero-text">
-        <h1>Fun facts about react</h1>
+        <h1>Fun facts about React</h1>
       </div>
       <div className="list-content">
         <ul>
